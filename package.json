@@ -1,7 +1,7 @@
 {
   "name": "vue3-todo-app",
   "version": "0.0.0",
-  "homepage": "./assets",
+  "homepage": "./",
   "private": true,
   "scripts": {
     "dev": "vite",
